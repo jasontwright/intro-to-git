@@ -4,4 +4,4 @@ Presented by [@derekeder] (https://twitter.com/derekeder) for the [Open Gov Hack
 
 Part One of the tutorial took place on [6 May 2014] (http://opengovhacknight.org/events/2014/05/06/github-for-government.html).
 
-Part Two is scheduled to take place on 3 June 2014.  
+Part Two of the tutorial took place on [3 June 2014] (http://opengovhacknight.org/events/2014/06/03/englewood-codes-north-central-college-and-github.html).
